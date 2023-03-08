@@ -1,4 +1,4 @@
-#Custom Object Detection using OpenCV CPU and TensorFlow
+# Custom Object Detection using OpenCV CPU and TensorFlow
 
 Welcome to my Custom Object Detection project! This project is designed to provide a powerful tool for creating accurate object detection models using OpenCV CPU and TensorFlow. I use 3D models fake data generated in Unity to make the process of object detection more effective and engaging.
 
